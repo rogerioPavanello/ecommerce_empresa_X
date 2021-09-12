@@ -48,3 +48,11 @@ function somar(A, B)
 }
 
 ```
+
+
+### Tarefas do Projeto
+
+- [ x ] Pagina Login
+- [ x ] Pagina inicial
+- [ ] Cadastro de Clientes
+- [ ] Pagina de Vendas
