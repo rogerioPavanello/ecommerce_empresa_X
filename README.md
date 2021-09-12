@@ -37,3 +37,14 @@ __melhoria 1__, _melhoria 2_
 ### Links interesantes
 
 [Link do Google](https://www.google.com)
+
+### Codigo da funcao Somar
+
+```JavaScript
+
+function somar(A, B)
+{
+  return A + B;
+}
+
+```
