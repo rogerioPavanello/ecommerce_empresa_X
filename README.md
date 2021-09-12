@@ -30,3 +30,6 @@ __melhoria 1__, _melhoria 2_
 2. Integracao de pagamentos
 3. Sistema de bonus para primeira compra
 
+### Imagem Local
+
+![Logo Php](php.png)
