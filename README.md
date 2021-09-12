@@ -54,5 +54,5 @@ function somar(A, B)
 
 - [x] Pagina Login
 - [x] Pagina inicial
-- [] Cadastro de Clientes
-- [] Pagina de Vendas
+- [ ] Cadastro de Clientes
+- [ ] Pagina de Vendas
