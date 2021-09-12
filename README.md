@@ -24,6 +24,9 @@ __melhoria 1__, _melhoria 2_
 ### Funcionalidades a desenvolver
 
 1. Area de Membros
+    1. Login diferente para grupos de clientes
+    2. Desconto especial para grupos de clientes
+    3. Css diferente para grupos de clientes
 2. Integracao de pagamentos
 3. Sistema de bonus para primeira compra
 
